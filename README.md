@@ -34,8 +34,7 @@ FFmpeg, FFprobe, MediaInfo, MKVToolNix, and yt-dlp.
 
 ### Run in Google Colab
 
-1.  Open the notebook in Google Colab using the badge/link in the
-    notebook, or upload `Videofunc.ipynb` to Colab.
+1.  upload `Videofunc.ipynb` to Colab.
 2.  Run the relevant cell.
 3.  Enter the requested file path, URL, format, or output folder in the
     cell's input fields.
